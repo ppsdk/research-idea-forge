@@ -1,0 +1,4 @@
+interface:
+  display_name: "科研创新点构建：迁移与数学重构"
+  short_description: "独立构建科研创新点：机制迁移、数学重构、候选审视与贡献证据收敛"
+  default_prompt: "使用 $research-idea-forge，独立从我的研究方向或候选出发，按需完成机制迁移、数学重构和文献核验，比较候选并收敛主贡献，交付与维护一份有证据边界的 idea 卡。"
